@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.pixel_true_app",
+    "sha256_cert_fingerprints": ["4D:CC:E6:F3:91:24:BD:9E:08:FB:3F:59:92:CE:F3:9D:E7:C3:11:FC:AA:24:16:46:C1:1E:92:1C:97:99:B5:36"]
+  }
+}]
